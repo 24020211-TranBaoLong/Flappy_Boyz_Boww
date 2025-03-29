@@ -58,7 +58,7 @@ vài cách thức để khiến game tốt hơn,không copy hoàn toàn từ AI)
 -Dự án này được phát triển cho mục đích học tập tại UET:3 và không nhằm mục đích khác.
 -Được làm trong thời gian ngắn nên có thể còn nhiều hạn chế mong người chơi thông cảm(sẽ cố gắng update)
 
-#Ngưỡng điểm mong muốn
+### Ngưỡng điểm mong muốn:
 
 Tôi cho rằng project này xứng đáng đạt mức điểm 8.5 đến 10 điểm theo barem được cung cấp.
 
@@ -66,7 +66,7 @@ Tôi cho rằng project này xứng đáng đạt mức điểm 8.5 đến 10 đ
 
 Dựa trên barem điểm:
 
-#4-6: Học và làm game theo nội dung hướng dẫn hàng tuần của giảng viên, nộp bài đúng hạn trên GitHub:
+### 4-6: Học và làm game theo nội dung hướng dẫn hàng tuần của giảng viên, nộp bài đúng hạn trên GitHub:
 
 - Tôi đã hoàn thành game Flappy Boyz theo hướng dẫn hàng tuần, bao gồm các tính năng cơ bản như điều khiển chim, vượt cột, ghi điểm,hiệu ứng background và kết thúc game.
 - Project đã được nộp đúng hạn trên GitHub với đầy đủ mã nguồn và tài nguyên.
@@ -100,7 +100,7 @@ Dựa trên barem điểm:
 3. *Game phát triển từ code mẫu nhưng có thay đổi đáng kể*:
    - Tôi đã thay đổi đáng kể so với code mẫu: Thêm các map chơi,Thêm mức độ chơi.Tăng tốc độ động,Lưu điểm cao vào file "highscore.txt".
 
-#9-10: Chất lượng ở top 10% của lớp
+### 9-10: Chất lượng ở top 10% của lớp
 
 - *Điểm nổi bật*:
   - *Map và chế độ chơi*:Có 3 map chơi khác nhau với mức độ từ dễ đến khos tùy vào kĩ năng của người chơi.
