@@ -1,10 +1,11 @@
-#FLAPPY_BOYZ_GAME:
+### FLAPPY_BOYZ_GAME:
+![Game Screenshot](Photo_game/screenshot_1.png)
 Họ và tên người làm:Trần Bảo Long
 MSV:24020211.
 Sinh viên:Đại học CÔNG NGHỆ -UET.
 Flappy_Boyz là một trò chơi được xây dựng bằng C++ và SDL2, dựa trên trò chơi huyền thoại Flappy bird mà chúng ta ai cũng biết.
-  
-
+![Game Screenshot](Photo_game/screenshot_2.png)  
+![Game Screenshot](Photo_game/screenshot_3.png)
 #Project:
 - GameState.h: Enum trạng thái game.
 - Bird.h/cpp: Lớp quản lý chú chim.
