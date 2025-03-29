@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1743246891 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\bird.cpp
+	"Bird.h"
+	<iostream>
+	<SDL_mixer.h>
+
+1743246891 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\object.cpp
+	"Object.h"
+	<algorithm>
+	<iostream>
+
+1743247955 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\score.cpp
+	"Score.h"
+	<iostream>
+	<string>
+
+1743247955 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\vacham.cpp
+	"Vacham.h"
+	"Score.h"
+	<iostream>
+
+1743247955 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\window.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Window.h"
+
+1743246891 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\window.h
+	<SDL.h>
+
+1743248900 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\object.h
+	<SDL.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"Score.h"
+
+1743246891 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\score.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1743246616 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\bird.h
+	<SDL.h>
+	<vector>
+	<SDL_mixer.h>
+
+1743057771 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\vacham.h
+	<SDL.h>
+	"Bird.h"
+	"Object.h"
+	"Score.h"
+	<iostream>
+	<SDL_mixer.h>
+
+1743246891 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\board.cpp
+	"Board.h"
+	<iostream>
+
+1743246616 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\board.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+	<vector>
+
+1743254018 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<vector>
+	"Window.h"
+	"Bird.h"
+	"Object.h"
+	"Vacham.h"
+	"Score.h"
+	"Board.h"
+	"High.h"
+
+1743246917 source:c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\high.cpp
+	"High.h"
+	<limits>
+
+1743243371 c:\users\tranb\onedrive\taÌi liêòu\test\flappy_boy\high.h
+	<string>
+	<iostream>
+	<fstream>
+
